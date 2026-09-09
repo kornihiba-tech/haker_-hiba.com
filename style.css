@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(135deg, #ff69b4, #ffb6c1);
+}
+
+.login-box {
+    background: #fff0f6;
+}
+
+h1 {
+    color: #d63384;
+}
+
+p {
+    color: #9c5477;
+}
+
+input {
+    border: 1px solid #ffb6c1;
+    background: #ffffff;
+}
+
+button {
+    background: #ff69b4;
+    color: white;
+}
+
+button:hover {
+    background: #e7549a;
+}
